@@ -17,3 +17,5 @@ WebApp--服务器CPU与内存利用率走势图
 1. 把项目部署到Tomcat服务器
 2. 打开`localhost:8080/test`输入ip、用户名和密码
 3. 点击`auto refresh`按钮开启自动更新
+
+更详细情况查看[Instruction.pdf](https://github.com/bertram-zbc/CPU-and-Memory-Trend/blob/master/Instructions.pdf)
